@@ -4,7 +4,15 @@ Series windows 10 development
 ## UWP-003 - Overview of Topics Related to Universal Windows Platform App Development
 
 - XAML
-- Layout controls
+- UWP API
 - MVVM
-- Native components
-- Additional capabilities per devices (with extensions sdks)
+- C# - `async`, `await`, `Task`
+- Data formats
+- Tools in Visual Studio
+- Patterns in UWP
+
+## UWP-004 - What Is XAML?
+
+Extensible Application Markup Language, or XAML (pronounced "zammel"), is an XML-based markup language
+
+- In background XAML use our markup to creates instances of classes components

@@ -16,3 +16,7 @@ Series windows 10 development
 Extensible Application Markup Language, or XAML (pronounced "zammel"), is an XML-based markup language
 
 - In background XAML use our markup to creates instances of classes components
+
+## UWP-005 - Understanding Type Converters
+
+Type/Values converters, converts values between classes in XAML. Type converts has one responsibility: converter values 

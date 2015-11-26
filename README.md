@@ -19,4 +19,16 @@ Extensible Application Markup Language, or XAML (pronounced "zammel"), is an XML
 
 ## UWP-005 - Understanding Type Converters
 
-Type/Values converters, converts values between classes in XAML. Type converts has one responsibility: converter values 
+Type/Values converters, converts values between classes in XAML. Type converts has one responsibility: converter values
+
+## UWP-006 - Understanding Default Properties, Complex Properties and the Property Element Syntax
+
+XAML is essentially a XML document where we define elements - this elements are objects in c#
+
+```xml
+<Page ...>
+  <Grid ...>
+  ...
+  </Grid>
+</Page
+```
